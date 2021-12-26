@@ -1,9 +1,9 @@
 # Sixteen Colour Table
 All combinations of the basic 16 colours!
 
-License: MIT
-Based on <http://github.com/guns/xterm-color-table.vim>
-Inspired by `xfce4-terminal --color-table`
+* License: MIT
+* Based on <http://github.com/guns/xterm-color-table.vim>
+* Inspired by `xfce4-terminal --color-table`
 
 ## Usage
 
