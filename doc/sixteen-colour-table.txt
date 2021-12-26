@@ -1,0 +1,21 @@
+*sixteen-colour-table.txt*	All combinations of the basic 16 colours!
+
+Sixteen Colour Table
+
+==============================================================================
+Commands
+
+							*:SixteenColourTable*
+:SixteenColourTable	Create a new buffer, or open an existing buffer
+
+
+==============================================================================
+Mappings					*SixteenColourTable-mappings*
+
+
+While in the SixteenColourTable buffer,
+
+- Press <b> to toggle bold text			*SixteenColourTable-b*
+
+
+ vim:tw=78:sw=8:ts=8:sts=8:noet:ft=help:norl:
