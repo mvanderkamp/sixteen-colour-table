@@ -13,3 +13,9 @@ Inspired by `xfce4-terminal --color-table`
 * Shows all foreground/background combinations of the basic 16 terminal
   colours in a nice, easily understood format.
 * Inside the buffer, press `b` to toggle bold text.
+
+## Examples
+
+### Linux Console
+
+![Linux Console](https://raw.githubusercontent.com/wiki/mvanderkamp/sixteen-colour-table/images/linux_console.png)
