@@ -22,4 +22,12 @@ All combinations of the basic 16 colours!
 
 ### Gruvbox Light Medium Contrast
 
+https://github.com/morhetz/gruvbox
+
 ![Gruvbox Light Medium Contrast](https://raw.githubusercontent.com/wiki/mvanderkamp/sixteen-colour-table/images/gruvbox_light_medium.png)
+
+### Cocoa
+
+https://github.com/mvanderkamp/cocoa.vim
+
+![Cocoa](https://raw.githubusercontent.com/wiki/mvanderkamp/sixteen-colour-table/images/cocoa.png)
