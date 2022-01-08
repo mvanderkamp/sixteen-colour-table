@@ -24,7 +24,7 @@ augroup END
 " Go to or open (in a vertical split) a window containing the sixteen-colour
 " table.
 ""
-function! s:window()
+function! s:window() abort
     let bufid = bufnr(s:bufname)
     let winid = bufwinnr(bufid)
 
