@@ -80,10 +80,7 @@ endfunction
 " this function toggles the highlight grounds between bold/normal.
 ""
 function! s:toggle_bold() abort
-    " Figure out if currently bold
-    let l:hl = get(hlget('f00b00'), 0, {})
-    let l:cterm = get(l:hl, 'cterm', {})
-    let l:currently_bold = get(l:cterm, 'bold', v:false)
+    let l:currently_bold = synIDattr(synIDtrans(hlID('f00b00')), 'bold')
     let l:bold = l:currently_bold ? 'NONE' : 'bold'
     let l:cterm = ' cterm=' .. l:bold
 
